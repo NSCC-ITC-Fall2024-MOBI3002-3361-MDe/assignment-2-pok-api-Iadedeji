@@ -111,4 +111,4 @@ fun PokemonInfoDisplay(name: String, height: Int, weight: Int, types: String, im
     }
 }
 // https://www.youtube.com/watch?v=v0of23TxIKc&list=PLQkwcJG4YTCTimTCpEL5FZgaWdIZQuB7m
-//youtube video for help
+//youtube video for help and debugging
